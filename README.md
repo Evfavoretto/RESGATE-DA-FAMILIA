@@ -100,24 +100,25 @@
 
     <div class="cta">
         <p><strong>Garanta sua vaga agora mesmo:</strong></p>
-        <a href="YOUR_WHATSAPP_GROUP_LINK" target="_blank">👉 Quero participar gratuitamente</a>
+        <a href="https://chat.whatsapp.com/CeXf6hjhBziAzvXl9HGFFp" target="_blank">👉 Quero participar gratuitamente</a>
     </div>
 
     <section>
         <h2>Quem vai conduzir</h2>
         <p>Sou <strong>Evandro</strong>, mentor pessoal e empresarial, especialista em neurociência, saúde mental e constelações familiares. 
-        Tenho ajudado pessoas e famílias a encontrarem clareza, leveza e cura emocional através da <em>Mentoria O Seu Lugar</em>. 
-h2>
-        <p>Sou <strong>Alinne De Pasinatto </strong>, 
-Por muitos anos trabalhei com contabilidade e consultoria de negócios.
-Mas a vida me levou a um caminho ainda mais profundo: mergulhei em estudos de Psicologia, Psicanálise, Constelação Familiar e Empresarial, Coaching, Meditação, Respiração e Espiritualidade.
-Hoje, junto da minha experiência profissional e da minha própria história, eu ajudo pessoas a romperem ciclos de dor, curarem feridas emocionais e prosperarem na vida e nos negócios — sem perder a leveza.
-Sou autora do livro 8 Habilidades de um Líder Extraordinário e criei as mentorias ALANC e The Women Mentoring, que já transformaram a vida de muitas pessoas, principalmente famílias.</em>. 
-        Este workshop é uma oportunidade única de você viver essa transformação gratuitamente.</p>
+        Tenho ajudado pessoas e famílias a encontrarem clareza, leveza e cura emocional através da <em>Mentoria O Seu Lugar</em>.</p>
+
+        <p>Sou <strong>Alinne De Pasinatto</strong>.  
+        Por muitos anos trabalhei com contabilidade e consultoria de negócios.  
+        Mas a vida me levou a um caminho ainda mais profundo: mergulhei em estudos de Psicologia, Psicanálise, Constelação Familiar e Empresarial, Coaching, Meditação, Respiração e Espiritualidade.  
+        Hoje, junto da minha experiência profissional e da minha própria história, eu ajudo pessoas a romperem ciclos de dor, curarem feridas emocionais e prosperarem na vida e nos negócios — sem perder a leveza.  
+        Sou autora do livro <em>8 Habilidades de um Líder Extraordinário</em> e criei as mentorias ALANC e The Women Mentoring, que já transformaram a vida de muitas pessoas, principalmente famílias.</p>
+
+        <p>Este workshop é uma oportunidade única de você viver essa transformação gratuitamente.</p>
     </section>
 
     <div class="cta">
-        <a href="YOUR_WHATSAPP_GROUP_LINK" target="_blank">✅ Entrar no grupo e garantir meu acesso</a>
+        <a href="https://chat.whatsapp.com/CeXf6hjhBziAzvXl9HGFFp" target="_blank">✅ Entrar no grupo e garantir meu acesso</a>
     </div>
 
     <footer>

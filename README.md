@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -123,6 +123,6 @@
 
     <footer>
         <p>©️ 2025 O Resgate da Família • Todos os direitos reservados</p>
-    </footer>
+    </footer>](https://github.com/Evfavoretto/RESGATE-DA-FAMILIA.wiki.git)
 </body>
 </html>
